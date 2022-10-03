@@ -2,6 +2,7 @@
     "compilerOptions": {
         "outDir": "js",
         "removeComments": true,
-        "target": "ES5"
+        "target": "ES5",
+        "watch": true,
     },
 }
